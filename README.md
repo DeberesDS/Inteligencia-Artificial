@@ -2,7 +2,7 @@
   <head>
     <title>INTELIGENCIA ARTIFICIAL</title>
   </head>
-  <body background="Cielo.avif">
+  <body background="Cielo.jpg">
     <h1 style ="color:red"; font size ="26 px"; font style ="arial"; align ="center"><u><del>Inteligencia Artificial</del></u></h1>
     <p style ="color:#FFF700"; font size ="14 px"; font style ="arial">La inteligencia artificial (IA) es un conjunto de tecnologia que permiten que las computadoras realicen una variedad de funciones avanzadas, incluida la capacidad de ver, comprender y traducir lenguaje hablado y escrito, analizar datos, hacer recomendaciones y mucho mas.
     <br>
